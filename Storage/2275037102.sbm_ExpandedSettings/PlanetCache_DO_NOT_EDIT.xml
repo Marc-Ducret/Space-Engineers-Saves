@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-16"?>
+<PlanetDefinitionsCache xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PlanetDefinitions>
+    <PlanetDefinitionCache PlanetName="EarthLike">
+      <OreMappingValues>
+        <OreValues Value="1" Start="20" Depth="20" />
+        <OreValues Value="24" Start="30" Depth="20" />
+        <OreValues Value="49" Start="200" Depth="100" />
+        <OreValues Value="72" Start="100" Depth="10" />
+        <OreValues Value="96" Start="20" Depth="10" />
+        <OreValues Value="120" Start="50" Depth="30" />
+        <OreValues Value="168" Start="75" Depth="5" />
+        <OreValues Value="144" Start="100" Depth="5" />
+        <OreValues Value="192" Start="200" Depth="5" />
+      </OreMappingValues>
+    </PlanetDefinitionCache>
+    <PlanetDefinitionCache PlanetName="Alien">
+      <OreMappingValues>
+        <OreValues Value="1" Start="20" Depth="20" />
+        <OreValues Value="24" Start="30" Depth="20" />
+        <OreValues Value="48" Start="30" Depth="20" />
+        <OreValues Value="72" Start="100" Depth="10" />
+        <OreValues Value="96" Start="20" Depth="10" />
+        <OreValues Value="120" Start="50" Depth="30" />
+        <OreValues Value="168" Start="75" Depth="5" />
+        <OreValues Value="145" Start="500" Depth="50" />
+        <OreValues Value="192" Start="200" Depth="5" />
+      </OreMappingValues>
+    </PlanetDefinitionCache>
+    <PlanetDefinitionCache PlanetName="Mars">
+      <OreMappingValues>
+        <OreValues Value="2" Start="100" Depth="200" />
+        <OreValues Value="24" Start="30" Depth="20" />
+        <OreValues Value="48" Start="30" Depth="20" />
+        <OreValues Value="72" Start="100" Depth="10" />
+        <OreValues Value="96" Start="20" Depth="10" />
+        <OreValues Value="120" Start="50" Depth="30" />
+        <OreValues Value="168" Start="75" Depth="5" />
+        <OreValues Value="144" Start="100" Depth="5" />
+        <OreValues Value="192" Start="200" Depth="5" />
+      </OreMappingValues>
+    </PlanetDefinitionCache>
+    <PlanetDefinitionCache PlanetName="Moon">
+      <OreMappingValues>
+        <OreValues Value="1" Start="20" Depth="20" />
+        <OreValues Value="24" Start="30" Depth="20" />
+        <OreValues Value="48" Start="30" Depth="20" />
+        <OreValues Value="72" Start="100" Depth="10" />
+        <OreValues Value="96" Start="20" Depth="10" />
+        <OreValues Value="120" Start="50" Depth="30" />
+        <OreValues Value="168" Start="75" Depth="5" />
+        <OreValues Value="144" Start="100" Depth="5" />
+        <OreValues Value="192" Start="200" Depth="5" />
+      </OreMappingValues>
+    </PlanetDefinitionCache>
+    <PlanetDefinitionCache PlanetName="Europa">
+      <OreMappingValues>
+        <OreValues Value="1" Start="20" Depth="20" />
+        <OreValues Value="24" Start="30" Depth="20" />
+        <OreValues Value="48" Start="30" Depth="20" />
+        <OreValues Value="72" Start="100" Depth="10" />
+        <OreValues Value="96" Start="20" Depth="10" />
+        <OreValues Value="120" Start="50" Depth="30" />
+        <OreValues Value="168" Start="75" Depth="5" />
+        <OreValues Value="144" Start="100" Depth="5" />
+        <OreValues Value="192" Start="200" Depth="5" />
+      </OreMappingValues>
+    </PlanetDefinitionCache>
+    <PlanetDefinitionCache PlanetName="Titan">
+      <OreMappingValues>
+        <OreValues Value="1" Start="20" Depth="20" />
+        <OreValues Value="25" Start="200" Depth="100" />
+        <OreValues Value="48" Start="30" Depth="20" />
+        <OreValues Value="72" Start="100" Depth="10" />
+        <OreValues Value="96" Start="20" Depth="10" />
+        <OreValues Value="120" Start="50" Depth="30" />
+        <OreValues Value="168" Start="75" Depth="5" />
+        <OreValues Value="144" Start="100" Depth="5" />
+        <OreValues Value="192" Start="200" Depth="5" />
+      </OreMappingValues>
+    </PlanetDefinitionCache>
+    <PlanetDefinitionCache PlanetName="Triton">
+      <OreMappingValues>
+        <OreValues Value="200" Start="3" Depth="7" />
+        <OreValues Value="220" Start="3" Depth="7" />
+        <OreValues Value="240" Start="3" Depth="7" />
+        <OreValues Value="1" Start="10" Depth="3" />
+        <OreValues Value="4" Start="12" Depth="3" />
+        <OreValues Value="8" Start="14" Depth="4" />
+        <OreValues Value="12" Start="25" Depth="5" />
+        <OreValues Value="16" Start="28" Depth="5" />
+        <OreValues Value="20" Start="31" Depth="8" />
+        <OreValues Value="24" Start="10" Depth="4" />
+        <OreValues Value="28" Start="11" Depth="4" />
+        <OreValues Value="32" Start="11" Depth="6" />
+        <OreValues Value="36" Start="24" Depth="5" />
+        <OreValues Value="40" Start="27" Depth="5" />
+        <OreValues Value="44" Start="30" Depth="8" />
+        <OreValues Value="48" Start="9" Depth="4" />
+        <OreValues Value="52" Start="13" Depth="4" />
+        <OreValues Value="56" Start="10" Depth="6" />
+        <OreValues Value="60" Start="22" Depth="6" />
+        <OreValues Value="64" Start="25" Depth="7" />
+        <OreValues Value="68" Start="27" Depth="9" />
+        <OreValues Value="72" Start="20" Depth="3" />
+        <OreValues Value="76" Start="22" Depth="4" />
+        <OreValues Value="80" Start="26" Depth="6" />
+        <OreValues Value="84" Start="52" Depth="5" />
+        <OreValues Value="88" Start="55" Depth="6" />
+        <OreValues Value="92" Start="62" Depth="9" />
+        <OreValues Value="96" Start="21" Depth="3" />
+        <OreValues Value="100" Start="25" Depth="3" />
+        <OreValues Value="104" Start="31" Depth="5" />
+        <OreValues Value="108" Start="55" Depth="8" />
+        <OreValues Value="112" Start="58" Depth="9" />
+        <OreValues Value="116" Start="63" Depth="11" />
+        <OreValues Value="120" Start="23" Depth="4" />
+        <OreValues Value="124" Start="26" Depth="4" />
+        <OreValues Value="128" Start="29" Depth="5" />
+        <OreValues Value="132" Start="53" Depth="7" />
+        <OreValues Value="136" Start="55" Depth="8" />
+        <OreValues Value="140" Start="59" Depth="10" />
+        <OreValues Value="144" Start="32" Depth="2" />
+        <OreValues Value="148" Start="35" Depth="3" />
+        <OreValues Value="152" Start="38" Depth="5" />
+        <OreValues Value="156" Start="80" Depth="8" />
+        <OreValues Value="160" Start="89" Depth="9" />
+        <OreValues Value="164" Start="96" Depth="11" />
+        <OreValues Value="168" Start="40" Depth="1" />
+        <OreValues Value="172" Start="42" Depth="2" />
+        <OreValues Value="176" Start="45" Depth="3" />
+        <OreValues Value="180" Start="100" Depth="4" />
+        <OreValues Value="184" Start="107" Depth="5" />
+        <OreValues Value="188" Start="112" Depth="8" />
+      </OreMappingValues>
+    </PlanetDefinitionCache>
+  </PlanetDefinitions>
+</PlanetDefinitionsCache>

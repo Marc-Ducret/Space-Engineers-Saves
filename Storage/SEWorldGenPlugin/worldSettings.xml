@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-16"?>
+<MyObjectBuilder_PluginSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Enable>true</Enable>
+  <GeneratorSettings>
+    <MinObjectsInSystem>10</MinObjectsInSystem>
+    <MaxObjectsInSystem>10</MaxObjectsInSystem>
+    <MinOrbitDistance>350000</MinOrbitDistance>
+    <MaxOrbitDistance>6650000</MaxOrbitDistance>
+    <AsteroidGenerator>PLUGIN</AsteroidGenerator>
+    <AsteroidDensity>0.3</AsteroidDensity>
+    <PlanetSettings>
+      <SizeMultiplier>1</SizeMultiplier>
+      <PlanetSizeCap>120000</PlanetSizeCap>
+      <MoonProbability>0</MoonProbability>
+      <RingSettings>
+        <MinPlanetRingWidth>5500</MinPlanetRingWidth>
+        <MaxPlanetRingWidth>104500</MaxPlanetRingWidth>
+        <PlanetRingProbability>0</PlanetRingProbability>
+        <ShowRingGPS>false</ShowRingGPS>
+      </RingSettings>
+      <ShowPlanetGPS>true</ShowPlanetGPS>
+      <ShowMoonGPS>false</ShowMoonGPS>
+      <PlanetNameFormat>Planet [ObjectId] [ObjectNumber]</PlanetNameFormat>
+      <MoonNameFormat>Moon [ObjectId] [ObjectNumber]</MoonNameFormat>
+      <BlacklistedPlanets>
+        <string>MoonTutorial</string>
+      </BlacklistedPlanets>
+      <MandatoryPlanets>
+        <string>Planet-26</string>
+        <string>EarthLike</string>
+        <string>Mars</string>
+        <string>Alien</string>
+        <string>Triton</string>
+        <string>Elysium</string>
+        <string>Caldera</string>
+        <string>SafinaV2</string>
+      </MandatoryPlanets>
+      <Moons>
+        <string>Moon</string>
+        <string>Titan</string>
+        <string>Europa</string>
+        <string>Iyo</string>
+        <string>Ati</string>
+        <string>KL-136</string>
+        <string>Thanian</string>
+        <string>Risha</string>
+      </Moons>
+      <GasGiants />
+    </PlanetSettings>
+    <BeltSettings>
+      <MinBeltHeight>2500</MinBeltHeight>
+      <MaxBeltHeight>47500</MaxBeltHeight>
+      <BeltProbability>0.4</BeltProbability>
+      <ShowBeltGPS>true</ShowBeltGPS>
+      <BeltNameFormat>Belt [ObjectNumberGreek]</BeltNameFormat>
+    </BeltSettings>
+    <SemiRandomizedGeneration>false</SemiRandomizedGeneration>
+    <WorldSize>0</WorldSize>
+    <FirstPlanetCenter>false</FirstPlanetCenter>
+    <UseVanillaPlanets>true</UseVanillaPlanets>
+    <PlanetsOnlyOnce>true</PlanetsOnlyOnce>
+    <MoonsOnlyOnce>false</MoonsOnlyOnce>
+  </GeneratorSettings>
+</MyObjectBuilder_PluginSettings>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Config xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BatteryMaxPowerInputMultiplier>0.125</BatteryMaxPowerInputMultiplier>
+  <HydrogenEngineEfficiencyMultiplier>5</HydrogenEngineEfficiencyMultiplier>
+  <HydrogenEngineMaxPowerOutputMultiplier>10</HydrogenEngineMaxPowerOutputMultiplier>
+  <HydrogenGasEnergyDensityMultiplier>1</HydrogenGasEnergyDensityMultiplier>
+  <OxygenGeneratorPowerConsumptionMultiplier>10</OxygenGeneratorPowerConsumptionMultiplier>
+  <OxygenGeneratorExtraSpeedDivisor>2</OxygenGeneratorExtraSpeedDivisor>
+</Config>

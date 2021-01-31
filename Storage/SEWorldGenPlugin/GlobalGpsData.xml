@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-16"?>
+<MyObjectBuilder_GpsManager xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Gpss>
+    <GpsData>
+      <name>Earth</name>
+      <color x="0" y="1" z="1" />
+      <position x="213088.47460645318" y="-8337275.8439314589" z="-658427.505887977" />
+    </GpsData>
+    <GpsData>
+      <name>Safina</name>
+      <color x="0" y="1" z="1" />
+      <position x="13218841.171007443" y="1432363.7283898855" z="1102672.6264729518" />
+    </GpsData>
+    <GpsData>
+      <name>Elysium</name>
+      <color x="0" y="1" z="1" />
+      <position x="-16115070.425826794" y="-2726930.6003655614" z="-931560.469692907" />
+    </GpsData>
+    <GpsData>
+      <name>Planet-26</name>
+      <color x="0" y="1" z="1" />
+      <position x="-16543797.059998369" y="-8170603.47989598" z="-64534.070402988655" />
+    </GpsData>
+    <GpsData>
+      <name>Mars</name>
+      <color x="0" y="1" z="1" />
+      <position x="-19744588.38974094" y="9185122.4359012637" z="-1591540.2564559239" />
+    </GpsData>
+    <GpsData>
+      <name>Caldera</name>
+      <color x="0" y="1" z="1" />
+      <position x="13890002.147978667" y="21141917.756558213" z="-2027476.5955052639" />
+    </GpsData>
+    <GpsData>
+      <name>Triton</name>
+      <color x="0" y="1" z="1" />
+      <position x="-21387603.023042332" y="18519522.92934658" z="-1479725.7733305797" />
+    </GpsData>
+    <GpsData>
+      <name>Alien</name>
+      <color x="0" y="1" z="1" />
+      <position x="11571337.6970124" y="29760112.103228882" z="2769664.5121945697" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
+  </Gpss>
+  <DynamicGpss />
+</MyObjectBuilder_GpsManager>

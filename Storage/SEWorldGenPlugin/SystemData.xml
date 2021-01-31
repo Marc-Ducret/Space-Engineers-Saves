@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-16"?>
+<MyObjectBuilder_StarSystem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SystemObjects>
+    <MySystemItem xsi:type="MySystemBeltItem">
+      <Type>BELT</Type>
+      <DisplayName>Belt Alpha</DisplayName>
+      <Radius>4427318</Radius>
+      <Width>842075</Width>
+      <Height>12742</Height>
+      <RoidSize>354</RoidSize>
+    </MySystemItem>
+    <MySystemItem xsi:type="MyPlanetItem">
+      <Type>PLANET</Type>
+      <DisplayName>Planet EarthLike 1</DisplayName>
+      <DefName>EarthLike</DefName>
+      <Size>120000</Size>
+      <CenterPosition x="213088.47460645318" y="-8337275.8439314589" z="-658427.505887977" />
+      <OffsetPosition x="213087.97460645318" y="-8337276.3439314589" z="-658428.005887977" />
+      <Generated>true</Generated>
+      <PlanetMoons />
+    </MySystemItem>
+    <MySystemItem xsi:type="MyPlanetItem">
+      <Type>PLANET</Type>
+      <DisplayName>Planet SafinaV2 2</DisplayName>
+      <DefName>SafinaV2</DefName>
+      <Size>115099.953</Size>
+      <CenterPosition x="13218841.171007443" y="1432363.7283898855" z="1102672.6264729518" />
+      <OffsetPosition x="13218840.671007443" y="1432363.2283898855" z="1102672.1264729518" />
+      <Generated>true</Generated>
+      <PlanetMoons />
+    </MySystemItem>
+    <MySystemItem xsi:type="MyPlanetItem">
+      <Type>PLANET</Type>
+      <DisplayName>Planet Elysium 3</DisplayName>
+      <DefName>Elysium</DefName>
+      <Size>116344.32</Size>
+      <CenterPosition x="-16115070.425826794" y="-2726930.6003655614" z="-931560.469692907" />
+      <OffsetPosition x="-16115070.925826794" y="-2726931.1003655614" z="-931560.969692907" />
+      <Generated>true</Generated>
+      <PlanetMoons />
+    </MySystemItem>
+    <MySystemItem xsi:type="MyPlanetItem">
+      <Type>PLANET</Type>
+      <DisplayName>Planet Planet-26 4</DisplayName>
+      <DefName>Planet-26</DefName>
+      <Size>120000</Size>
+      <CenterPosition x="-16543797.059998369" y="-8170603.47989598" z="-64534.070402988655" />
+      <OffsetPosition x="-16543797.559998369" y="-8170603.97989598" z="-64534.570402988655" />
+      <Generated>true</Generated>
+      <PlanetMoons />
+    </MySystemItem>
+    <MySystemItem xsi:type="MyPlanetItem">
+      <Type>PLANET</Type>
+      <DisplayName>Planet Mars 5</DisplayName>
+      <DefName>Mars</DefName>
+      <Size>113841.992</Size>
+      <CenterPosition x="-19744588.38974094" y="9185122.4359012637" z="-1591540.2564559239" />
+      <OffsetPosition x="-19744588.88974094" y="9185121.9359012637" z="-1591540.7564559239" />
+      <Generated>true</Generated>
+      <PlanetMoons />
+    </MySystemItem>
+    <MySystemItem xsi:type="MyPlanetItem">
+      <Type>PLANET</Type>
+      <DisplayName>Planet Caldera 6</DisplayName>
+      <DefName>Caldera</DefName>
+      <Size>120000</Size>
+      <CenterPosition x="13890002.147978667" y="21141917.756558213" z="-2027476.5955052639" />
+      <OffsetPosition x="13890001.647978667" y="21141917.256558213" z="-2027477.0955052639" />
+      <Generated>true</Generated>
+      <PlanetMoons />
+    </MySystemItem>
+    <MySystemItem xsi:type="MyPlanetItem">
+      <Type>PLANET</Type>
+      <DisplayName>Planet Triton 7</DisplayName>
+      <DefName>Triton</DefName>
+      <Size>120000</Size>
+      <CenterPosition x="-21387603.023042332" y="18519522.92934658" z="-1479725.7733305797" />
+      <OffsetPosition x="-21387603.523042332" y="18519522.42934658" z="-1479726.2733305797" />
+      <Generated>true</Generated>
+      <PlanetMoons />
+    </MySystemItem>
+    <MySystemItem xsi:type="MyPlanetItem">
+      <Type>PLANET</Type>
+      <DisplayName>Planet Alien 8</DisplayName>
+      <DefName>Alien</DefName>
+      <Size>120000</Size>
+      <CenterPosition x="11571337.6970124" y="29760112.103228882" z="2769664.5121945697" />
+      <OffsetPosition x="11571337.1970124" y="29760111.603228882" z="2769664.0121945697" />
+      <Generated>true</Generated>
+      <PlanetMoons />
+    </MySystemItem>
+    <MySystemItem xsi:type="MySystemBeltItem">
+      <Type>BELT</Type>
+      <DisplayName>Belt Beta</DisplayName>
+      <Radius>35637594</Radius>
+      <Width>541277</Width>
+      <Height>36942</Height>
+      <RoidSize>270</RoidSize>
+    </MySystemItem>
+  </SystemObjects>
+</MyObjectBuilder_StarSystem>
