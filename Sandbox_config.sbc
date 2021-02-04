@@ -8,8 +8,8 @@
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
     <OnlineMode>PUBLIC</OnlineMode>
-    <MaxPlayers>64</MaxPlayers>
-    <MaxFloatingObjects>1024</MaxFloatingObjects>
+    <MaxPlayers>8</MaxPlayers>
+    <MaxFloatingObjects>128</MaxFloatingObjects>
     <MaxBackupSaves>5</MaxBackupSaves>
     <MaxGridSize>0</MaxGridSize>
     <MaxBlocksPerPlayer>0</MaxBlocksPerPlayer>
@@ -114,6 +114,11 @@
     <EnablePcuTrading>true</EnablePcuTrading>
     <FamilySharing>true</FamilySharing>
     <EnableSelectivePhysicsUpdates>false</EnableSelectivePhysicsUpdates>
+    <PredefinedAsteroids>true</PredefinedAsteroids>
+    <UseConsolePCU>false</UseConsolePCU>
+    <MaxPlanets>99</MaxPlanets>
+    <OffensiveWordsFiltering>false</OffensiveWordsFiltering>
+    <AdjustableMaxVehicleSpeed>true</AdjustableMaxVehicleSpeed>
   </Settings>
   <Mods>
     <ModItem FriendlyName="Paint Gun - realistic painting for survival + special creative features">
@@ -266,5 +271,5 @@
     </ModItem>
   </Mods>
   <SessionName>Final</SessionName>
-  <LastSaveTime>2021-01-29T23:34:58.908842+01:00</LastSaveTime>
+  <LastSaveTime>2021-02-04T02:20:38.5714309+01:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
