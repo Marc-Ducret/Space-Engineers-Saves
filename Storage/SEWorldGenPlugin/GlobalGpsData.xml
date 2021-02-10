@@ -411,6 +411,16 @@
       <color x="0" y="1" z="1" />
       <position x="35908232" y="0" z="0" />
     </GpsData>
+    <GpsData>
+      <name>Belt Alpha</name>
+      <color x="0" y="1" z="1" />
+      <position x="4848355" y="0" z="0" />
+    </GpsData>
+    <GpsData>
+      <name>Belt Beta</name>
+      <color x="0" y="1" z="1" />
+      <position x="35908232" y="0" z="0" />
+    </GpsData>
   </Gpss>
   <DynamicGpss />
 </MyObjectBuilder_GpsManager>
