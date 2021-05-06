@@ -60,4 +60,34 @@
       <AllowFactoryUsage>false</AllowFactoryUsage>
     </Value>
   </SerializableKeyValuePairOfInt64NaniteAssemblerSettings>
+  <SerializableKeyValuePairOfInt64NaniteAssemblerSettings>
+    <Key>112458566541659482</Key>
+    <Value>
+      <AllowFactoryUsage>false</AllowFactoryUsage>
+    </Value>
+  </SerializableKeyValuePairOfInt64NaniteAssemblerSettings>
+  <SerializableKeyValuePairOfInt64NaniteAssemblerSettings>
+    <Key>128191134196037512</Key>
+    <Value>
+      <AllowFactoryUsage>false</AllowFactoryUsage>
+    </Value>
+  </SerializableKeyValuePairOfInt64NaniteAssemblerSettings>
+  <SerializableKeyValuePairOfInt64NaniteAssemblerSettings>
+    <Key>99155415586456322</Key>
+    <Value>
+      <AllowFactoryUsage>false</AllowFactoryUsage>
+    </Value>
+  </SerializableKeyValuePairOfInt64NaniteAssemblerSettings>
+  <SerializableKeyValuePairOfInt64NaniteAssemblerSettings>
+    <Key>96690361443997685</Key>
+    <Value>
+      <AllowFactoryUsage>false</AllowFactoryUsage>
+    </Value>
+  </SerializableKeyValuePairOfInt64NaniteAssemblerSettings>
+  <SerializableKeyValuePairOfInt64NaniteAssemblerSettings>
+    <Key>119273143262535086</Key>
+    <Value>
+      <AllowFactoryUsage>false</AllowFactoryUsage>
+    </Value>
+  </SerializableKeyValuePairOfInt64NaniteAssemblerSettings>
 </ArrayOfSerializableKeyValuePairOfInt64NaniteAssemblerSettings>
